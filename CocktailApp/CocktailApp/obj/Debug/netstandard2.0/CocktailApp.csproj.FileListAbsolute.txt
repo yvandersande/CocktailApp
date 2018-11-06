@@ -1,0 +1,13 @@
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\bin\Debug\netstandard2.0\CocktailApp.deps.json
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\bin\Debug\netstandard2.0\CocktailApp.dll
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\bin\Debug\netstandard2.0\CocktailApp.pdb
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.csproj.CoreCompileInputs.cache
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.AssemblyInfoInputs.cache
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.AssemblyInfo.cs
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.dll
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\CocktailApp.pdb
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projects\CocktailApp\CocktailApp\CocktailApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
